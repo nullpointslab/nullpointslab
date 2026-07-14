@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-<img src="https://komarev.com/ghp/visitor.svg?username=nullpointslab&label=Profile+Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" />
 
 </div>
 
