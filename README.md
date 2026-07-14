@@ -125,6 +125,9 @@ Instead of hiring three separate freelancers for each need, clients get a coordi
 - **Flexible engagement** — one-off projects, retainers, or ongoing partnerships.
 
 ---
+## GitHub Activity
+
+![Snake animation](https://raw.githubusercontent.com/nullpointslab/nullpointslab/output/github-snake.svg)
 
 ## 🔄 How We Work
 
